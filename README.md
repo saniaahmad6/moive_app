@@ -1,5 +1,5 @@
 # Movie App
-This is a movie website project using vanilla JavScript where users can watch movies using API integration.
+This is a movie website project using Vanilla JavScript where users can watch movies using API integration.
 
 
 
